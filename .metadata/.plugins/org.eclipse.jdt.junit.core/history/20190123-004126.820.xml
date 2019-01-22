@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BinarySearchTreeTest" project="binarySearchTree" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="bst.BinarySearchTreeTest" time="0.0">
+    <testcase name="height" classname="bst.BinarySearchTreeTest" time="0.0"/>
+    <testcase name="insert" classname="bst.BinarySearchTreeTest" time="0.0"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,23 @@
+package bst;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class BinarySearchTreeTest {
+
+	private BinarySearchTree<Integer> tree;
+	
+	@Before
+	public void setUp() throws Exception {
+		tree = new BinarySearchTree<Integer>();
+	}
+
+	@Test
+	public void insert() {
+		tree.insert(1);
+		tree.traverse();
+	}
+
+}
